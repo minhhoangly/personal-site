@@ -1,0 +1,102 @@
+a {
+  color: #66BFBF;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.5rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin: 0 auto 0 auto;
+  font-weight: bold;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+p{
+  font-size: 95%;
+}
+.bottom-container {
+  background-color: #DFF6FF;
+  padding: 20px;
+}
+
+.contact-me {
+  padding: 20px;
+}
+
+.middle-container {
+  background-color: #FFFFFF;
+}
+
+.profile-img {
+  border-radius: 100%;
+  width: 20%;
+  height: 20%;
+}
+
+.profile {
+  width: 50%;
+  margin: 20px auto 20px auto;
+}
+.product-dev {
+  float: left;
+  margin-right: 30px;
+  width: 20%;
+  height: 20%;
+}
+
+.title{
+  font-size: 1.2rem;
+  color: #66BFBF;
+}
+
+.top-container {
+  background-color: #DFF6FF;
+  padding-top: 8%;
+  position: relative;
+}
+
+.scrum {
+  float: right;
+  margin-right: 30px;
+  width: 20%;
+  height: 20%;
+}
+
+.skills{
+  margin: 20px auto 20px auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+#cloud1 {
+  position: absolute;
+  top: 10%;
+  left: 60%;
+}
+
+#cloud2 {
+  position: absolute;
+  left: 25%;
+}
